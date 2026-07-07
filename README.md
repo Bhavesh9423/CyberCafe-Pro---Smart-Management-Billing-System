@@ -201,19 +201,11 @@ http://127.0.0.1:5000
 Add screenshots here
 
 ```
-Login Page
+<img width="1696" height="675" alt="Screenshot 2026-07-07 230107" src="https://github.com/user-attachments/assets/67b2fe01-6d1a-4db0-aa9a-22c516a593cc" />
+<img width="1690" height="711" alt="Screenshot 2026-07-07 230125" src="https://github.com/user-attachments/assets/f859ed4a-16e6-4f00-9965-9014afa97305" />
+<img width="1700" height="710" alt="Screenshot 2026-07-07 230138" src="https://github.com/user-attachments/assets/0a6016e7-5266-4779-aa12-7f622e4319df" />
+<img width="1694" height="713" alt="Screenshot 2026-07-07 230148" src="https://github.com/user-attachments/assets/9fe0c3a9-68eb-468a-8eee-f6947fc10118" />
 
-Dashboard
-
-Customer Registration
-
-Billing Page
-
-Document Upload
-
-Invoice
-
-Reports
 ```
 
 ---
